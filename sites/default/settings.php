@@ -771,9 +771,9 @@ $settings['migrate_node_migrate_type_classic'] = FALSE;
 #   include $app_root . '/' . $site_path . '/settings.local.php';
 # }
 $databases['default']['default'] = array (
-  'database' => 'creditoneenterprise',
-  'username' => 'root',
-  'password' => 'root',
+  'database' => 'credi5dm_credit',
+  'username' => 'credi5dm_drupal',
+  'password' => 'UXbG9%!+[M0l',
   'prefix' => '',
   'host' => 'localhost',
   'port' => '3306',
